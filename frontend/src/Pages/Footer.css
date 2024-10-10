@@ -1,0 +1,21 @@
+/* Footer.css */
+.footer {
+    background-color: gainsboro;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 400px;
+    max-height: 100px;
+    border: 1px solid #ccc; 
+    border-color: black; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    font-family: 'Arial', sans-serif;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 25px;
+    color: black;
+}
+
